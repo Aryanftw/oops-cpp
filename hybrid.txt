@@ -1,0 +1,2 @@
+combination of two or more types of inheritances is known as hybrid inheritance
+

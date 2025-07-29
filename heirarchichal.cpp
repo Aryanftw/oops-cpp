@@ -1,0 +1,1 @@
+//basically this inhertance is the type in which one class acts as a parent class for multiple sub classes ntg much;
